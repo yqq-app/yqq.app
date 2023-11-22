@@ -1,2 +1,2 @@
 # 云青青
-[yqq.app](https://yqq.app)
+https://yqq-app.github.io/yqq.app/
